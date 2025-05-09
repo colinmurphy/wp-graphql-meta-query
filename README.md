@@ -4,7 +4,8 @@ This plugin adds Meta_Query support to the WP GraphQL Plugin for postObject quer
 
 ## Why is this an extension and not part of WPGraphQL?
 
-Meta Queries _can_ be expensive and have been known to actually take sites down, which is why they are not
+>[!IMPORTANT]
+>Meta Queries _can_ be expensive and have been known to actually take sites down, which is why they are not
 part of the core WPGraphQL plugin. 
 
 If you need meta queries for your WPGraphQL system, this plugin enables them, but use with caution. It might be better
